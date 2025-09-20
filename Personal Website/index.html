@@ -23,34 +23,30 @@
         </nav>
     </section>
 
-    <div id="index">
-        <div class="container-index">
-            <div class="row-index">
-                <h1>Hello World!</h1>
-                <p>
-                    <br>
-                    I am Yujie (Elena) Pu. I received my Ph.D. degree from Department of East Asian
-                    Languages & Cultures at University of Illinois Urbana-Champaign in 2024. I got my Master of Arts degree in
-                    History from Chinese University of Hong Kong. My research examines the intersection of medical and legal
-                    practices in the construction and regulation of madness during the Qing dynasty in China. The primary focus
-                    of this project is to understand how madness was institutionalized and how the state, through its judiciary
-                    system, regulated and shaped perceptions of madness.
-                    <br>
-                    <br>
-                    My journey as a first-generation college student, along with my academic pursuits in both Asia and
-                    the U.S., has equipped me with diverse educational perspectives. Drawing from my experiences, I
-                    incorporate real-life narratives of an Asian navigating different academic terrains, highlighting
-                    the contrasts and commonalities between Eastern and Western education systems. This multi-faceted
-                    approach not only broadens students' understanding but also fosters a culture of inclusivity in the
-                    classroom, encouraging every student to bring their unique stories to the academic discourse.
-                </p>
+    <main>
+        <div id="index">
+            <div class="container-index">
+                <div class="row-index">
+                    <h1>Hello World!</h1>
+                    <p>
+                        <br>
+                        Welcome to my personal website! My name is Yujie (Elena) Pu, and I am currently a Lecturer/Instructor of Imperial Chinese 
+                        History in the Department of East Asian Languages and Cultures at the University of Illinois Urbana-Champaign. My research interests 
+                        include Social and Cultural History of Late Imperial China, Global History of Medicine and Psychiatry, Legal History,  
+                        Intersection of Medicine and Religion, and Manchu Texts.
+                    </p>
+                </div>
             </div>
         </div>
-    </div>
+    </main>
 
+    <!--------------footer------------------->
     <footer align="center">
-        Copyright &copy; <em id="date"></em>2023 by Yujie (Elena) Pu
+        Copyright &copy; <span id="year"></span> Yujie (Elena) Pu. All rights reserved.
     </footer>
+    <script>
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
 
 </body>
 </html>

@@ -56,9 +56,13 @@
         </div>
     </section>
 
+    <!--------------footer------------------->
     <footer align="center">
-        Copyright &copy; <em id="date"></em>2023 by Yujie (Elena) Pu
+        Copyright &copy; <span id="year"></span> Yujie (Elena) Pu. All rights reserved.
     </footer>
+    <script>
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
 
 </body>
 </html>
