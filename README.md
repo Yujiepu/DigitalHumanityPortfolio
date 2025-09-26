@@ -2,7 +2,7 @@
 This repository showcases a curated set of digital humanities projects that blend historical inquiry with technical innovation. Designed as a portfolio of experimental and pedagogical tools, it features interactive maps, data visualizations, and survey-based research aimed at exploring cultural narratives and scholarly engagement.
 
 ## Featured Projects
-- **ArcGIS Map**: Local Practitioners Involved in Madness During Qianlong <br>
+- **ArcGIS Map**: Local Physicians Participated in Madness Adjudication During the 18th Century <br>
 A spatial exploration of historical actors and mental health discourse in Qing-era China.
 - **Qualtrics Survey**: Where I'm From: Hometown Survey <br>
 A narrative-driven survey tool capturing student identity and geographic memory.
