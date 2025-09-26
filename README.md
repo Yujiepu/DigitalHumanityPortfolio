@@ -4,7 +4,7 @@ This repository showcases a curated set of digital humanities projects that blen
 ## Featured Projects
 - ArcGIS Map: Local Practitioners Involved in Madness During Qianlong
 A spatial exploration of historical actors and mental health discourse in Qing-era China.
-- Qualtrics Survey: Where I'm From – Hometown Survey
+- Qualtrics Survey: Where I'm From Hometown Survey
 A narrative-driven survey tool capturing student identity and geographic memory.
 - Tableau Dashboard: University Digital Humanities Programs
 A comparative visualization of institutional DH initiatives across universities.
