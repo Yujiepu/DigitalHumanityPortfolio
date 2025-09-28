@@ -1,3 +1,0 @@
-![ArcGIS Map Screenshot](images/my-arcgis-map.png)
-
-[View interactive map](https://univofillinois.maps.arcgis.com/apps/mapviewer/index.html?webmap=ac814d0a909c4fd2881d9e99a5a3b844)
