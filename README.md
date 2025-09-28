@@ -8,8 +8,6 @@ A spatial exploration of historical actors and mental health discourse in Qing-e
 A narrative-driven survey tool capturing student identity and geographic memory.
 - **Tableau Dashboard**: University Digital Humanities Programs <br>
 A comparative visualization of institutional DH initiatives across universities.
-- **Text Mining & Visualization**: Classical Chinese Prose <br>
-Computational analysis and visual storytelling of literary patterns in classical texts.
 - **Twitter Data Uploads** <br>
 Preliminary data for future social media analysis and digital trace studies.
 
