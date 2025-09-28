@@ -15,7 +15,7 @@ A spatial analysis of local physicians who participated in the adjudication of m
 ---
 
 ### Text Mining and Visualization: *Lienü Zhuan* in Chinese Dynastic Histories  
-A textual analysis of the *Lienü zhuan* (列女傳, *Biographies of Exemplary Women*) chapters found in 13 official dynastic histories.  
+A textual analysis of the Lienü zhuan (列女傳, Biographies of Exemplary Women) chapters found in 13 official dynastic histories.  
 - **Keywords Tracked**: 貞 (*chastity*), 孝 (*filial piety*), 節 (*restraint/virtue*), 死 (*death*)  
 - **Goal**: To trace discursive shifts in gendered virtues from the *Later Han* to the *Draft History of Qing*  
 - **Tools**: Voyant Tools 
